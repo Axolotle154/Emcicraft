@@ -1,2 +1,2 @@
-# Emcicraft
+# CraterHype
 servermine
